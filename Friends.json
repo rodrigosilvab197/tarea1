@@ -1,0 +1,23 @@
+[
+  {
+   "nombre" : "rodrigo",
+    "hobby" : "futbol",
+   "cel" : 3312345678,
+    "edad" : 22,
+    "adress" : "Vallel"
+  },
+  {
+        "nombre" : "sergio",
+    "hobby" : "esquiar",
+   "cel" : 3312345678,
+    "edad" : 22,
+    "adress" : "tec"
+  },
+  {
+        "nombre" : "Arturo",
+    "hobby" : "futbol",
+   "cel" : 3312345678,
+    "edad" : 22,
+    "adress" : "jardin real"
+  }
+]
